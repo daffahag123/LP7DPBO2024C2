@@ -49,6 +49,13 @@ Selain kedua kelas utama tersebut, program ini juga menggunakan kelas-kelas tamb
 6. Pengguna dapat merestart permainan dengan menekan tombol "R" pada keyboard.
 7. Skor saat ini dan skor terbaik ditampilkan dalam JLabel di dalam permainan dan diperbarui setiap kali permainan dimulai kembali.
 
+# Dokumentasi Program
+https://github.com/daffahag123/LP7DPBO2024C2/assets/135239333/369eee39-73e3-4d46-a0ba-b06717a38123
+
+Note: Ketika SR terlihat lag, aslinya tidak. Silahkan dicoba saja programnya!
+
+
+
 
 
 
