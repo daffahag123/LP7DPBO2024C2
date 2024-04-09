@@ -44,8 +44,8 @@ Selain kedua kelas utama tersebut, program ini juga menggunakan kelas-kelas tamb
 1. Ketika aplikasi dijalankan, tampilan awal (main menu) muncul.
 2. Pengguna dapat memilih untuk memulai permainan dengan menekan tombol "Start Game".
 3. Saat tombol "Start Game" ditekan, JFrame permainan Flappy Bird akan muncul.
-4. Di dalam permainan, pemain mengontrol burung untuk menghindari tabrakan dengan pipa dan jatuh ke bawah.
-5. Jika burung menabrak pipa atau jatuh ke bawah, permainan berakhir dan pesan dialog Game Over muncul.
+4. Di dalam permainan, pemain mengontrol burung  dengan menekan tombol "Spasi" untuk membuatnya melompat. Pemain harus menghindari tabrakan dengan pipa dan jatuh ke bawah. 
+5. Setiap kali burung berhasil melewati sepasang pipa, skor akan bertambah. Jika burung menabrak pipa atau jatuh ke bawah, permainan berakhir dan pesan dialog Game Over muncul dan menampilkan skor saat ini dan skor terbaik.
 6. Pengguna dapat merestart permainan dengan menekan tombol "R" pada keyboard.
 7. Skor saat ini dan skor terbaik ditampilkan dalam JLabel di dalam permainan dan diperbarui setiap kali permainan dimulai kembali.
 
