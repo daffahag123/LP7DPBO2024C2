@@ -7,7 +7,7 @@ untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dis
 Program ini adalah permainan Flappy Bird sederhana yang dibuat menggunakan Java Swing. Permainan terdiri dari dua kelas utama, yaitu:
 1. Kelas App
 
-Kelas App bertanggung jawab untuk menampilkan tampilan awal atau main menu permainan Flappy Bird. Ketika aplikasi pertama kali dijalankan, kelas ini akan membuat dan menampilkan JFrame yang berisi main menu. Pengguna dapat memulai permainan dengan menekan tombol "Start Game" yang ada di main menu. Ketika tombol tersebut ditekan, kelas ini akan menutup main menu dan membuka permainan Flappy Bird dengan menampilkan kelas FlappyBird.
+   Kelas App bertanggung jawab untuk menampilkan tampilan awal atau main menu permainan Flappy Bird. Ketika aplikasi pertama kali dijalankan, kelas ini akan membuat dan menampilkan JFrame yang berisi main menu.    Pengguna dapat memulai permainan dengan menekan tombol "Start Game" yang ada di main menu. Ketika tombol tersebut ditekan, kelas ini akan menutup main menu dan membuka permainan Flappy Bird dengan menampilkan    kelas FlappyBird.
 
 2. Kelas FlappyBird
 
