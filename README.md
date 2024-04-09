@@ -40,13 +40,14 @@ Selain kedua kelas utama tersebut, program ini juga menggunakan kelas-kelas tamb
 - playPassSound(): Memutar efek suara saat pemain melewati pipa.
 - playCollisionSound(): Memutar efek suara saat pemain menabrak pipa atau jatuh.
 
-# Alur ProgramKetika aplikasi dijalankan, tampilan awal (main menu) muncul.
-1. Pengguna dapat memilih untuk memulai permainan dengan menekan tombol "Start Game".
-2. Saat tombol "Start Game" ditekan, JFrame permainan Flappy Bird akan muncul.
-3. Di dalam permainan, pemain mengontrol burung untuk menghindari tabrakan dengan pipa dan jatuh ke bawah.
-4. Jika burung menabrak pipa atau jatuh ke bawah, permainan berakhir dan pesan dialog Game Over muncul.
-5. Pengguna dapat merestart permainan dengan menekan tombol "R" pada keyboard.
-6. Skor saat ini dan skor terbaik ditampilkan dalam JLabel di dalam permainan dan diperbarui setiap kali permainan dimulai kembali.
+# Alur Program
+1. Ketika aplikasi dijalankan, tampilan awal (main menu) muncul.
+2. Pengguna dapat memilih untuk memulai permainan dengan menekan tombol "Start Game".
+3. Saat tombol "Start Game" ditekan, JFrame permainan Flappy Bird akan muncul.
+4. Di dalam permainan, pemain mengontrol burung untuk menghindari tabrakan dengan pipa dan jatuh ke bawah.
+5. Jika burung menabrak pipa atau jatuh ke bawah, permainan berakhir dan pesan dialog Game Over muncul.
+6. Pengguna dapat merestart permainan dengan menekan tombol "R" pada keyboard.
+7. Skor saat ini dan skor terbaik ditampilkan dalam JLabel di dalam permainan dan diperbarui setiap kali permainan dimulai kembali.
 
 
 
