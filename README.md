@@ -12,3 +12,20 @@ Kelas App bertanggung jawab untuk menampilkan tampilan awal atau main menu perma
 2. Kelas FlappyBird
 
 Kelas FlappyBird adalah kelas yang mengatur permainan Flappy Bird itu sendiri. Di dalam kelas ini, logika permainan diimplementasikan. Ini termasuk menggambar elemen-elemen permainan seperti burung dan pipa, menggerakkan objek-objek permainan, menangani kollision antara objek-objek, serta memeriksa dan mengatur skor pemain. Selain itu, kelas ini juga menangani suara-suara permainan seperti musik latar belakang dan efek suara saat pemain melewati pipa atau menabrak pipa.
+
+Selain kedua kelas utama tersebut, program ini juga menggunakan kelas-kelas tambahan untuk mengatur elemen-elemen seperti pemain (Player), pipa (Pipe), dan efek suara (Sound). Penjelasannya sebagai berikut:
+1. Kelas Player
+   
+Kelas Player bertanggung jawab untuk merepresentasikan pemain atau karakter utama dalam permainan Flappy Bird. Berikut penjelasan singkat tentang atribut dan metode yang dimilikinya:
+
+Atribut:
+- posX dan posY: Menyimpan posisi pemain di layar.
+- width dan height: Menyimpan lebar dan tinggi pemain.
+- image: Menyimpan gambar yang digunakan untuk menggambar pemain.
+- velocityY: Menyimpan kecepatan vertikal pemain, yang digunakan untuk mengatur gerakan pemain naik turun.
+
+
+
+
+
+
